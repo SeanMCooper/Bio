@@ -1,0 +1,78 @@
+
+#topNav{
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-bottom: 3%
+}
+.myImages{
+    float: left;
+    padding-right: 2%;
+}
+#myName{
+    font-size: 2em;
+    padding-right: 5%
+}
+h1{
+    font-size: 1.2em;
+    font-weight: bolder;
+    text-align:center
+}
+body{
+    background-image: url("../images/background.jpg")
+}
+p{
+    display: inline;
+}
+.homepageBox{
+    background-color: #343a40!important;
+    color: whitesmoke;
+    border:whitesmoke solid 3px;
+    font-size: 1.1em;
+    line-height: 1.3em
+}
+.homepageBio{
+    padding:2%
+}
+.contact{
+    padding:2%;
+}
+.contactBox{
+    background-color: #343a40!important;
+    color: whitesmoke;
+    border:whitesmoke solid 3px;
+    font-size: 1.1em;
+    line-height: 1.3em;
+    margin-top:-36%
+}
+
+.socialsBox{
+    background-color: #343a40!important;
+    color: whitesmoke;
+    border:whitesmoke solid 3px;
+    font-size: 1.1em;
+    line-height: 1.3em;
+    margin-top: 7%;
+}
+.socials{
+    padding:2%
+}
+.appButton{
+    text-align: center
+}
+
+.spacing{
+    padding:2%
+}
+#icons{ 
+    text-align: center;
+}
+
+footer{
+    display: block; 
+    background-color: #343a40!important;
+    text-align: center; 
+    color: whitesmoke; 
+    padding: 20px 20px 10px 20px; 
+    font-size: 10px;
+    margin-top: 3%
+}
